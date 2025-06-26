@@ -8,7 +8,7 @@ This project applies:
 Files
 
 - `housing_regression_analysis.py`: Main script to run both regressions and show plots.
-- `Housing.csv`: Dataset file (add it to this folder).
+- `Housing.csv`: Dataset file.
 
 Requirements
 
